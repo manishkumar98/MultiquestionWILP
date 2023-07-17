@@ -1,2 +1,2 @@
-# MultiquestionWILP
+# MultipleQuestionWILP
 Created with CodeSandbox
